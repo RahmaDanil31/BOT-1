@@ -1,0 +1,16 @@
+{
+  "name": "bot-1",
+  "version": "1.0.0",
+  "description": "belajar boot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahma danil",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
